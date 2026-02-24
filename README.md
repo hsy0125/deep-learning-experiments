@@ -1,2 +1,27 @@
-# deep-learning-experiments
-Deep learning model experiment and analysis study
+# 🧠 Deep Learning 실험 및 분석 프로젝트
+
+본 프로젝트는 딥러닝 모델을 단순 구현하는 것이 아닌,  
+학습 특성 및 하이퍼파라미터 변화에 따른 수렴 특성을 분석하기 위한 실험 중심 저장소입니다.
+
+---
+
+## 🎯 프로젝트 목표
+
+- CNN 기반 이미지 분류 모델 구현
+- 하이퍼파라미터 변화에 따른 성능 비교
+- 학습 안정성 및 수렴 특성 분석
+- Seed에 따른 분산 분석
+
+---
+
+## 🛠 사용 기술
+
+- Python
+- PyTorch
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+## 📂 프로젝트 구조
